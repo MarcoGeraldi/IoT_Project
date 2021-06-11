@@ -1,0 +1,8 @@
++CMQTTPUB: 0,0
+
++CMQTTRXSTART: 0,31,10
++CMQTTRXTOPIC: 0,31
+aws/things/simcom7600_device01/
++CMQTTRXPAYLOAD: 0,10
+Starting..
++CMQTTRXEND: 0
